@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "Charan",
+      "pokemons": [
+        {
+          "id": "14487a94-bdcb-4161-b176-48bd27508b7c",
+          "pokemonName": "Raichu",
+          "ability": "Thunderbolt",
+          "positionX": 120,
+          "positionY": 160,
+          "speed": 40,
+          "direction": "East"
+        }
+      ],
+      "id": "5c33cdb3-7485-4a53-b99b-28a4ca738c27"
+    }
+  ],
+  "pokemons": [
+    {
+      "id": "14487a94-bdcb-4161-b176-48bd27508b7c",
+      "pokemonName": "Raichu",
+      "ability": "Thunderbolt",
+      "positionX": 120,
+      "positionY": 160,
+      "speed": 40,
+      "direction": "East"
+    }
+  ]
+}
