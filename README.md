@@ -25,9 +25,9 @@ This project demonstrates a full-stack application involving ReactJS for the fro
 
 # Prerequisites
 
-- *Node.js*
-- *npm*
-- *React Js
-- *CSS
+- Node.js
+- npm
+- React Js
+- CSS
 
 
